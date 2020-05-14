@@ -1,10 +1,6 @@
 # 快速入门Web阅读器开发
 
-> 作者：sam
 
-## 课程地址
-
-本课程为[慕课网](https://www.imooc.com)的免费课，可以点击[这里](https://www.imooc.com/learn/1038)进行学习
 
 ## 课程介绍
 
